@@ -217,8 +217,8 @@ html, body {
 }
 @media(max-width: 460px){
 	.info__png{
-		width: 307px;
-		height: 289px;		
+		width: 230px;
+		height: 217px;		
 	}
 }
 
@@ -288,6 +288,7 @@ html, body {
 }
 .work__column {
 	max-width: 100%;
+	margin: 0px auto;
 	padding: 0px 22.50px;
 	flex: 0 1 33.333%;	
 }
